@@ -3,6 +3,6 @@
 FizzBuzz scripting practice
 - Bash
 - Powershell
-= Python
+- Python
 - Perl
 - JavaScript
